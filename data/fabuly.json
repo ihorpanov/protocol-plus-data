@@ -1,0 +1,139 @@
+{
+  "pdr": {
+    "categories": {
+      "parking": {
+        "displayName": "Стоянка / Зупинка",
+        "templates": [
+          {
+            "id": "parking_1",
+            "fabula": "На тротуарі",
+            "fabula_example": "Водій, керуючи ТЗ, здійснив зупинку на тротуарі, де для руху пішоходів залишилося менше 2м, чим порушив п. 15.10в ПДР України. ч.1 ст.122 КУпАП 255 грн",
+            "amount": 340,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122 КУпАП",
+            "road_rule_point": "15.10"
+          },
+          {
+            "id": "parking_2",
+            "fabula": "Друга смуга",
+            "fabula_example": "",
+            "amount": 340,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122 КУпАП",
+            "road_rule_point": "15.9"
+          },
+          {
+            "id": "parking_3",
+            "fabula": "Знак 3.34",
+            "fabula_example": "",
+            "amount": 340,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122 КУпАП",
+            "road_rule_point": "15.9, 33.34"
+          },
+          {
+            "id": "parking_4",
+            "fabula": "< 30м від зупинки МТЗ",
+            "fabula_example": "",
+            "amount": 340,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122 КУпАП",
+            "road_rule_point": "15.9"
+          },
+          {
+            "id": "parking_5",
+            "fabula": "< 10м від перехрестя",
+            "fabula_example": "",
+            "amount": 340,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122 КУпАП",
+            "road_rule_point": "15.9"
+          },
+          {
+            "id": "parking_6",
+            "fabula": "< 10м від пішохідного переходу",
+            "fabula_example": "",
+            "amount": 340,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122 КУпАП",
+            "road_rule_point": "15.9"
+          },
+          {
+            "id": "parking_7",
+            "fabula": "На мосту",
+            "fabula_example": "",
+            "amount": 340,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122 КУпАП",
+            "road_rule_point": "15.9"
+          },
+          {
+            "id": "parking_8",
+            "fabula": "Місце для інвалідів",
+            "fabula_example": "",
+            "amount": 680,
+            "required_materials": [
+              "Копія постанови"
+            ],
+            "article": "Ст. 122-2 КУпАП",
+            "road_rule_point": "15.10"
+          }
+        ]
+      },
+      "intersection": {
+        "displayName": "Проїзд перехресть",
+        "templates": []
+      },
+      "documents": {
+        "displayName": "Документи",
+        "templates": []
+      },
+      "vehicle_fault": {
+        "displayName": "Несправність ТЗ",
+        "templates": []
+      },
+      "accident": {
+        "displayName": "ДТП",
+        "templates": []
+      },
+      "article_130": {
+        "displayName": "130",
+        "templates": []
+      },
+      "safety_violation": {
+        "displayName": "Порушення безпеки",
+        "templates": []
+      },
+      "dangerous_cargo": {
+        "displayName": "Небезпечний вантаж",
+        "templates": []
+      }
+    }
+  },
+  "gb": {
+    "subcategories": {
+      "alcohol": [
+        {
+          "title": "Находження в пʼяному вигляді",
+          "fabula": "",
+          "amount": 0,
+          "article": ""
+        }
+      ]
+    }
+  }
+}
