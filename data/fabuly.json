@@ -1,127 +1,117 @@
 {
   "pdr": {
-    "categories": {
-      "parking": {
-        "displayName": "Стоянка / Зупинка",
-        "templates": [
-          {
-            "id": "parking_1",
-            "fabula": "На тротуарі",
-            "fabula_example": "Водій, керуючи ТЗ, здійснив зупинку на тротуарі, де для руху пішоходів залишилося менше 2м, чим порушив п. 15.10в ПДР України. ч.1 ст.122 КУпАП 255 грн",
-            "amount": 340,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122 КУпАП",
-            "road_rule_point": "15.10"
-          },
-          {
-            "id": "parking_2",
-            "fabula": "Друга смуга",
-            "fabula_example": "",
-            "amount": 340,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122 КУпАП",
-            "road_rule_point": "15.9"
-          },
-          {
-            "id": "parking_3",
-            "fabula": "Знак 3.34",
-            "fabula_example": "",
-            "amount": 340,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122 КУпАП",
-            "road_rule_point": "15.9, 33.34"
-          },
-          {
-            "id": "parking_4",
-            "fabula": "< 30м від зупинки МТЗ",
-            "fabula_example": "",
-            "amount": 340,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122 КУпАП",
-            "road_rule_point": "15.9"
-          },
-          {
-            "id": "parking_5",
-            "fabula": "< 10м від перехрестя",
-            "fabula_example": "",
-            "amount": 340,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122 КУпАП",
-            "road_rule_point": "15.9"
-          },
-          {
-            "id": "parking_6",
-            "fabula": "< 10м від пішохідного переходу",
-            "fabula_example": "",
-            "amount": 340,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122 КУпАП",
-            "road_rule_point": "15.9"
-          },
-          {
-            "id": "parking_7",
-            "fabula": "На мосту",
-            "fabula_example": "",
-            "amount": 340,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122 КУпАП",
-            "road_rule_point": "15.9"
-          },
-          {
-            "id": "parking_8",
-            "fabula": "Місце для інвалідів",
-            "fabula_example": "",
-            "amount": 680,
-            "required_materials": [
-              "Копія постанови"
-            ],
-            "article": "Ст. 122-2 КУпАП",
-            "road_rule_point": "15.10"
-          }
-        ]
-      },
-      "intersection": {
-        "displayName": "Проїзд перехресть",
-        "templates": []
-      },
-      "documents": {
-        "displayName": "Документи",
-        "templates": []
-      },
-      "vehicle_fault": {
-        "displayName": "Несправність ТЗ",
-        "templates": []
-      },
-      "accident": {
-        "displayName": "ДТП",
-        "templates": []
-      },
-      "article_130": {
-        "displayName": "130",
-        "templates": []
-      },
-      "safety_violation": {
-        "displayName": "Порушення безпеки",
-        "templates": []
-      },
-      "dangerous_cargo": {
-        "displayName": "Небезпечний вантаж",
-        "templates": []
-      }
+    "parking": {
+      "categoryTitle": "Стоянка / Зупинка",
+      "categoryItems": [
+        {
+          "id": "fabula1",
+          "fabulaTitle": "На тротуарі",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку на тротуарі, де для руху пішоходів залишилося менше 2м",
+          "violationPoint": "п. 15.10в ПДР України",
+          "article": "ч.1 ст.122 КУпАП",
+          "fine": 340,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": false
+        },
+        {
+          "id": "fabula2",
+          "fabulaTitle": "Друга смуга",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку в другій смузі руху",
+          "violationPoint": "п. 15.4 ПДР України",
+          "article": "ч.1 ст.122 КУпАП",
+          "fine": 340,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": false
+        },
+        {
+          "id": "fabula3",
+          "fabulaTitle": "Знак 3.34",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку в зоні дії знаку 3.34 \"Зупинку заборонено\" ",
+          "violationPoint": "п. 8.4в ПДР України",
+          "article": "ч.1 ст.122 КУпАП",
+          "fine": 340,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": false
+        },
+        {
+          "id": "fabula4",
+          "fabulaTitle": "< 30м від зупинки МТЗ",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку ближче 30 метрів від зупинки громадського транспорту",
+          "violationPoint": "п. 15.9е ПДР України",
+          "article": "ч.1 ст.122 КУпАП",
+          "fine": 340,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": false
+        },
+        {
+          "id": "fabula5",
+          "fabulaTitle": "< 10м від перехрестя",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку ближче 10 метрів від перехрестя (на перехресті)",
+          "violationPoint": "п. 15.9ґ ПДР України",
+          "article": "ч.1 ст.122 КУпАП",
+          "fine": 340,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": false
+        },
+        {
+          "id": "fabula6",
+          "fabulaTitle": "< 10м від пішоходного переходу",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив ближче 10 метрів від пішоходного переходу (на пішоходному переході)",
+          "violationPoint": "п. 15.9г ПДР України",
+          "article": "ч.1 ст.122 КУпАП",
+          "fine": 340,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": false
+        },
+        {
+          "id": "fabula7",
+          "fabulaTitle": "На мосту",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку на мосту",
+          "violationPoint": "п. 15.9в ПДР України",
+          "article": "ч.1 ст.122 КУпАП",
+          "fine": 340,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": false
+        },
+        {
+          "id": "fabula8",
+          "fabulaTitle": "Місце для інвалідів",
+          "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку на місці, яке позначено дорожнім знаком 5.38 \"Місце стоянки\" з додатковою табличкою 7.17 \"Інваліди\" та позначеного дорожньою розміткою 1.30",
+          "violationPoint": "п. 8.4ґ ПДР України",
+          "article": "ч.5 ст.122 КУпАП",
+          "fine": 1020,
+          "requiredMaterials": ["Копія постанови"],
+          "hasRecurrence": true
+        }
+      ]
+    },
+    "crossing": {
+      "categoryTitle": "Проїзд перехресть",
+      "categoryItems": []
+    },
+    "documents": {
+      "categoryTitle": "Документи",
+      "categoryItems": []
+    },
+    "vehicle_fault": {
+      "categoryTitle": "Несправність ТЗ",
+      "categoryItems": []
+    },
+    "accident": {
+      "categoryTitle": "ДТП",
+      "categoryItems": []
+    },
+    "article_130": {
+      "categoryTitle": "130",
+      "categoryItems": []
+    },
+    "safety_violation": {
+      "categoryTitle": "Порушення безпеки",
+      "categoryItems": []
+    },
+    "dangerous_cargo": {
+      "categoryTitle": "Небезпечний вантаж",
+      "categoryItems": []
     }
   },
   "gb": {
