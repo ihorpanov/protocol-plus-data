@@ -1,0 +1,922 @@
+{
+  "parking": {
+    "categoryTitle": "Стоянка / Зупинка",
+    "categoryItems": [
+      {
+        "id": "fabula1",
+        "fabulaTitle": "На тротуарі",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку на тротуарі, де для руху пішоходів залишилося менше 2м",
+        "violationPoint": "п. 15.10в ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "fabula2",
+        "fabulaTitle": "Друга смуга",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку в другій смузі руху",
+        "violationPoint": "п. 15.4 ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "fabula3",
+        "fabulaTitle": "Знак 3.34",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку в зоні дії знаку 3.34 \"Зупинку заборонено\" ",
+        "violationPoint": "п. 8.4в ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "fabula4",
+        "fabulaTitle": "< 30м від зупинки МТЗ",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку ближче 30 метрів від зупинки громадського транспорту",
+        "violationPoint": "п. 15.9е ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "fabula5",
+        "fabulaTitle": "< 10м від перехрестя",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку ближче 10 метрів від перехрестя (на перехресті)",
+        "violationPoint": "п. 15.9ґ ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "fabula6",
+        "fabulaTitle": "< 10м від пішоходного переходу",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив ближче 10 метрів від пішоходного переходу (на пішоходному переході)",
+        "violationPoint": "п. 15.9г ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "fabula7",
+        "fabulaTitle": "На мосту",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку на мосту",
+        "violationPoint": "п. 15.9в ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "fabula8",
+        "fabulaTitle": "Місце для інвалідів",
+        "fabulaContent": "Водій, керуючи ТЗ, здійснив зупинку на місці, яке позначено дорожнім знаком 5.38 \"Місце стоянки\" з додатковою табличкою 7.17 \"Інваліди\" та позначеного дорожньою розміткою 1.30",
+        "violationPoint": "п. 8.4ґ ПДР України",
+        "article": "ч.5 ст.122 КУпАП",
+        "fine": 1020,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": true
+      }
+    ]
+  },
+  "crossing": {
+    "categoryTitle": "Проїзд перехресть",
+    "categoryItems": [
+      {
+        "id": "crossing1",
+        "fabulaTitle": "Червоний сигнал світлофору",
+        "fabulaContent": "Водій, керуючи ТЗ, проїхав перехрестя на заборонений червоний сигнал світлофору",
+        "violationPoint": "п. 8.7.3е ПДР України",
+        "article": "ч.2 ст.122 КУпАП",
+        "fine": 510,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing2",
+        "fabulaTitle": "Жовтий сигнал світлофору",
+        "fabulaContent": "Водій, керуючи ТЗ, проїхав перехрестя на заборонений жовтий сигнал світлофору",
+        "violationPoint": "п. 8.7.3ґ ПДР України",
+        "article": "ч.2 ст.122 КУпАП",
+        "fine": 510,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing3",
+        "fabulaTitle": "Додаткова секція світлофора",
+        "fabulaContent": "Водій, керуючи ТЗ, проїхав перехрестя на вимкнений сигнал додаткової секції світлофору",
+        "violationPoint": "п. 8.7.3з ПДР України",
+        "article": "ч.2 ст.122 КУпАП",
+        "fine": 510,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing4",
+        "fabulaTitle": "Поворот праворуч заборонено",
+        "fabulaContent": "Водій, керуючи ТЗ, не виконав вимогу знаку 3.22 \"Поворот праворуч заборонено\", а саме здійснив поворот праворуч",
+        "violationPoint": "п. 8.4в ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing5",
+        "fabulaTitle": "Поворот ліворуч заборонено",
+        "fabulaContent": "Водій, керуючи ТЗ, не виконав вимогу знаку 3.23 \"Поворот ліворуч заборонено\", а саме здійснив поворот ліворуч",
+        "violationPoint": "п. 8.4в ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing6",
+        "fabulaTitle": "Вʼїзд заборонено",
+        "fabulaContent": "Водій, керуючи ТЗ, не виконав вимогу знаку 3.21 \"Вʼїзд заборонено\"",
+        "violationPoint": "п. 8.4в ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing7",
+        "fabulaTitle": "Розворот заборонено",
+        "fabulaContent": "Водій, керуючи ТЗ, не виконав вимогу знаку 3.24 \"Розворот заборонено\", а саме здійснив розворот",
+        "violationPoint": "п. 8.4в ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing8",
+        "fabulaTitle": "Напрямки руху по смугах",
+        "fabulaContent": "Водій, керуючи ТЗ, не виконав вимогу знаку 5.16 \"Напрямки руху по смугах\", а саме зі смуги, яка вказує рух (ліворуч), здійснив рух (прямо)",
+        "violationPoint": "п. 8.4ґ ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing9",
+        "fabulaTitle": "Залізничний переїзд",
+        "fabulaContent": "Водій, керуючи ТЗ, виїхав на залізничний переїзд при увімкненому заборонному (червоному) сигналі світлофора",
+        "violationPoint": "п. 20.5в ПДР України",
+        "article": "ч.2 ст.123 КУпАП",
+        "fine": 850,
+        "suspendableLicense": true,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing10",
+        "fabulaTitle": "Створення затору",
+        "fabulaContent": "Водій, керуючи ТЗ, виїхав на перехрестя, де утворився затор, що змусило водія зупинись на перехресті, створивши перешкоду для руху інших транспортних засобів і пішоходів",
+        "violationPoint": "п. 16.4 ПДР України",
+        "article": "ч.2 ст.122 КУпАП",
+        "fine": 510,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing11",
+        "fabulaTitle": "Маневрування",
+        "fabulaContent": "Водій, керуючи ТЗ, перед поворотом ліворуч (праворуч), завчасно не зайняв відповідне крайнє положення на проїзній частині та здійснив поворот з крайньої правої (крайньої лівої смуги)",
+        "violationPoint": "п. 10.4 ПДР України",
+        "article": "ст.125 КУпАП",
+        "fine": 0,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "crossing12",
+        "fabulaTitle": "Знак \"Стоп\"",
+        "fabulaContent": "Водій, керуючи ТЗ, не виконав вимогу знаку 2.2 \"Проїзд без зупинки заборонено\"",
+        "violationPoint": "п. 8.4б ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      }
+    ]
+  },
+  "documents": {
+    "categoryTitle": "Документи",
+    "categoryItems": [
+      {
+        "id": "documents1",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "documents2",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "documents3",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "documents4",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      }
+    ]
+  },
+  "vehicleFault": {
+    "categoryTitle": "Несправність ТЗ",
+    "categoryItems": [
+      {
+        "id": "vehicleFault1",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "vehicleFault2",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "vehicleFault3",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "vehicleFault4",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "vehicleFault5",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "vehicleFault6",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      }
+    ]
+  },
+  "trafficAccident": {
+    "categoryTitle": "ДТП",
+    "categoryItems": [
+      {
+        "id": "trafficAccident1",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident2",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident3",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident4",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident5",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident6",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident7",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident8",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident9",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident10",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident11",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident12",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident13",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident14",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident15",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident16",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident17",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident18",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident19",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident20",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident21",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident22",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident23",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident24",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "trafficAccident25",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      }
+    ]
+  },
+  "drunkDriving": {
+    "categoryTitle": "130",
+    "categoryItems": [
+      {
+        "id": "drunkDriving1",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "drunkDriving2",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "drunkDriving3",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "drunkDriving4",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "drunkDriving5",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "drunkDriving6",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      }
+    ]
+  },
+  "safetyViolation": {
+    "categoryTitle": "Порушення безпеки",
+    "categoryItems": [
+      {
+        "id": "safetyViolation1",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation2",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation3",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation4",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation5",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation6",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation7",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation8",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation9",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation10",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation11",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation12",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "safetyViolation13",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      }
+    ]
+  },
+  "dangerousGoods": {
+    "categoryTitle": "Небезпечний вантаж",
+    "categoryItems": [
+      {
+        "id": "dangerousGoods1",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "dangerousGoods2",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "dangerousGoods3",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "dangerousGoods4",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "dangerousGoods5",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      },
+      {
+        "id": "dangerousGoods6",
+        "fabulaTitle": "tbd",
+        "fabulaContent": "Водій, керуючи ТЗ, ",
+        "violationPoint": "п.  ПДР України",
+        "article": "ч.1 ст.122 КУпАП",
+        "fine": 340,
+        "suspendableLicense": false,
+        "materials": ["постанова"],
+        "supposeRecurrence": false
+      }
+    ]
+  }
+}
