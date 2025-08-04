@@ -9,9 +9,7 @@
         "violationPoint": "п. 15.10в ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "fabula2",
@@ -20,9 +18,7 @@
         "violationPoint": "п. 15.4 ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "fabula3",
@@ -31,9 +27,7 @@
         "violationPoint": "п. 8.4в ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "fabula4",
@@ -42,9 +36,7 @@
         "violationPoint": "п. 15.9е ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "fabula5",
@@ -53,9 +45,7 @@
         "violationPoint": "п. 15.9ґ ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "fabula6",
@@ -64,9 +54,7 @@
         "violationPoint": "п. 15.9г ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "fabula7",
@@ -75,9 +63,7 @@
         "violationPoint": "п. 15.9в ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "fabula8",
@@ -86,7 +72,6 @@
         "violationPoint": "п. 8.4ґ ПДР України",
         "article": "ч.5 ст.122 КУпАП",
         "fine": 1020,
-        "suspendableLicense": false,
         "materials": ["постанова"],
         "supposeRecurrence": true
       }
@@ -102,9 +87,7 @@
         "violationPoint": "п. 8.7.3е ПДР України",
         "article": "ч.2 ст.122 КУпАП",
         "fine": 510,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing2",
@@ -113,9 +96,7 @@
         "violationPoint": "п. 8.7.3ґ ПДР України",
         "article": "ч.2 ст.122 КУпАП",
         "fine": 510,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing3",
@@ -124,9 +105,7 @@
         "violationPoint": "п. 8.7.3з ПДР України",
         "article": "ч.2 ст.122 КУпАП",
         "fine": 510,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing4",
@@ -135,9 +114,7 @@
         "violationPoint": "п. 8.4в ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing5",
@@ -146,9 +123,7 @@
         "violationPoint": "п. 8.4в ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing6",
@@ -157,9 +132,7 @@
         "violationPoint": "п. 8.4в ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing7",
@@ -168,9 +141,7 @@
         "violationPoint": "п. 8.4в ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing8",
@@ -179,9 +150,7 @@
         "violationPoint": "п. 8.4ґ ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing9",
@@ -191,8 +160,7 @@
         "article": "ч.2 ст.123 КУпАП",
         "fine": 850,
         "suspendableLicense": true,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing10",
@@ -201,9 +169,7 @@
         "violationPoint": "п. 16.4 ПДР України",
         "article": "ч.2 ст.122 КУпАП",
         "fine": 510,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing11",
@@ -212,9 +178,7 @@
         "violationPoint": "п. 10.4 ПДР України",
         "article": "ст.125 КУпАП",
         "fine": 0,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "crossing12",
@@ -223,9 +187,7 @@
         "violationPoint": "п. 8.4б ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       }
     ]
   },
@@ -234,47 +196,47 @@
     "categoryItems": [
       {
         "id": "documents1",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
-        "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "fabulaTitle": "Не має страховку",
+        "fabulaContent": "Водій, керуючи ТЗ, не мав при собі поліса обовʼязкового срахування цивільно-правової відповідальності власників наземних ТЗ",
+        "violationPoint": "п. 2.1ґ ПДР України",
+        "article": "ч.1 ст.126 КУпАП",
+        "fine": 425,
+        "materials": ["постанова"]
       },
       {
         "id": "documents2",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
-        "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "fabulaTitle": "Не предʼявив страховку",
+        "fabulaContent": "Водій, керуючи ТЗ, (порушення для підстави зупинки) та не предʼявив поліс обовʼязкового страхування цивільно-правової відповідальності власників наземних ТЗ",
+        "violationPoint": "п. 2.4а ПДР України",
+        "article": "ч.1 ст.126 КУпАП",
+        "fine": 425,
+        "materials": ["постанова"]
       },
       {
         "id": "documents3",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
-        "fine": 340,
-        "suspendableLicense": false,
+        "fabulaTitle": "Не мав ВП",
+        "fabulaContent": "Водій, керуючи ТЗ, (порушення для підстави зупинки) та не мав при собі посвідчення водія",
+        "violationPoint": "п. 2.1а ПДР України",
+        "article": "ч.1 ст.126 КУпАП",
+        "fine": 425,
         "materials": ["постанова"],
-        "supposeRecurrence": false
+        "recurrence": {
+          "fine": 3400,
+          "article": "ч.2 ст.126 КУпАП"
+        }
       },
       {
         "id": "documents4",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
-        "fine": 340,
-        "suspendableLicense": false,
+        "fabulaTitle": "Позбавлений ВП",
+        "fabulaContent": "Водій, керуючи ТЗ, (порушення для підстави зупинки) та при перевірці документів було встановлено, що водій був позбавлений права керування (Новобаварським районним судом м. Харкова від 00.00.0000 на 6 місяців)",
+        "violationPoint": "п. 2.1а ПДР України",
+        "article": "ч.4 ст.126 КУпАП",
+        "fine": 20400,
         "materials": ["постанова"],
-        "supposeRecurrence": false
+        "recurrence": {
+          "fine": 40800,
+          "article": "ч.4 ст.126 КУпАП"
+        }
       }
     ]
   },
@@ -283,69 +245,77 @@
     "categoryItems": [
       {
         "id": "vehicleFault1",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
+        "fabulaTitle": "Переобладнання",
+        "fabulaContent": "Водій керував транспортним засобом, переобладнаним з вантажного на легковий без відповідного дозволу",
+        "violationPoint": "п. 32.1є, 31.3а ПДР України",
+        "article": "ч.1 ст.121 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
         "materials": ["постанова"],
-        "supposeRecurrence": false
+        "recurrence": {
+          "article": "ч.1 ст.121 КУпАП",
+          "suspendableLicense": true,
+          "materials": ["протокол"]
+        }
       },
       {
         "id": "vehicleFault2",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
+        "fabulaTitle": "Тюнінг підсвітки",
+        "fabulaContent": "Водій керував ТЗ, у якого тип, розміщення і режим роботи зовнішніх світлових приладів, а саме (підвітка заднього номерного знаку) не відповідає вимогам конструкції транспортного засобу / встановлено саморобні світлові елементи)",
+        "violationPoint": "п. 31.4.3 ПДР України",
+        "article": "ч.1 ст.121 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
         "materials": ["постанова"],
-        "supposeRecurrence": false
+        "recurrence": {
+          "article": "ч.1 ст.121 КУпАП",
+          "suspendableLicense": true,
+          "materials": ["протокол"]
+        }
       },
       {
         "id": "vehicleFault3",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
+        "fabulaTitle": "Тонування стопів",
+        "fabulaContent": "Водій керував ТЗ, у якого на розсіювачах світлових приладів нанесено тонування або покриття, що зменшує їх прозорість чи світлопропускання, а саме затоновані вогні стоп сигналу",
+        "violationPoint": "п. 31.4.3 ПДР України",
+        "article": "ч.1 ст.121 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
         "materials": ["постанова"],
-        "supposeRecurrence": false
+        "recurrence": {
+          "article": "ч.1 ст.121 КУпАП",
+          "suspendableLicense": true,
+          "materials": ["протокол"]
+        }
       },
       {
         "id": "vehicleFault4",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
+        "fabulaTitle": "Ліва фара",
+        "fabulaContent": "Водій керував ТЗ, у якого в темну пору доби не горіла лампа лівої фари в режимі ближнього світла",
+        "violationPoint": "п. 31.4.3в ПДР України",
+        "article": "ч.1 ст.121 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
         "materials": ["постанова"],
-        "supposeRecurrence": false
+        "recurrence": {
+          "article": "ч.1 ст.121 КУпАП",
+          "suspendableLicense": true,
+          "materials": ["протокол"]
+        }
       },
       {
         "id": "vehicleFault5",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
-        "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "fabulaTitle": "Фари в темну пору",
+        "fabulaContent": "Водій керував ТЗ, у якого в темну пору доби не були ввімкнені фари ближнього світла",
+        "violationPoint": "п. 19.1 ПДР України",
+        "article": "ч.2 ст.122 КУпАП",
+        "fine": 510,
+        "materials": ["постанова"]
       },
       {
         "id": "vehicleFault6",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
-        "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "fabulaTitle": "Брудний / Неосвітлений ДНЗ",
+        "fabulaContent": "Водій керував ТЗ (з забрудненим номерним знаком, що не дає чітко визначити символи номерного знака на відстані 20 метів / неосвітленим номерним знаком у темну пору доби)",
+        "violationPoint": "п. 2.9в ПДР України",
+        "article": "ч.6 ст.121 КУпАП",
+        "fine": 170,
+        "materials": ["постанова"]
       }
     ]
   },
@@ -354,14 +324,12 @@
     "categoryItems": [
       {
         "id": "trafficAccident1",
-        "fabulaTitle": "tbd",
-        "fabulaContent": "Водій, керуючи ТЗ, ",
-        "violationPoint": "п.  ПДР України",
-        "article": "ч.1 ст.122 КУпАП",
-        "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "fabulaTitle": "Швидкість - дистанція",
+        "fabulaContent": "Водій, керуючи ТЗ, не вибрав безпечної швидкості руху, не дотримався безпечної дистанції та скоїв зіткнення з ТЗ Toyota Camry АХ0001АМ, який (рухався / зупинився) попереду. Внаслідок ДТП автомобілі отримали механічні пошкодження з матеріальними збитками.",
+        "violationPoint": "п. 12.1, 13.1 ПДР України",
+        "article": "ст.124 КУпАП",
+        "suspendableLicense": true,
+        "materials": ["протокол", "пояснення водіїв", "схема ДТП", "корінець тимчасового ВП"]
       },
       {
         "id": "trafficAccident2",
@@ -370,9 +338,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident3",
@@ -381,9 +347,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident4",
@@ -392,9 +356,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident5",
@@ -403,9 +365,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident6",
@@ -414,9 +374,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident7",
@@ -425,9 +383,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident8",
@@ -436,9 +392,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident9",
@@ -447,9 +401,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident10",
@@ -458,9 +410,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident11",
@@ -469,9 +419,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident12",
@@ -480,9 +428,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident13",
@@ -491,9 +437,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident14",
@@ -502,9 +446,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident15",
@@ -513,9 +455,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident16",
@@ -524,9 +464,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident17",
@@ -535,9 +473,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident18",
@@ -546,9 +482,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident19",
@@ -557,9 +491,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident20",
@@ -568,9 +500,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident21",
@@ -579,9 +509,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident22",
@@ -590,9 +518,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident23",
@@ -601,9 +527,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident24",
@@ -612,9 +536,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "trafficAccident25",
@@ -623,9 +545,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       }
     ]
   },
@@ -639,9 +559,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "drunkDriving2",
@@ -650,9 +568,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "drunkDriving3",
@@ -661,9 +577,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "drunkDriving4",
@@ -672,9 +586,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "drunkDriving5",
@@ -683,9 +595,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "drunkDriving6",
@@ -694,9 +604,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       }
     ]
   },
@@ -710,9 +618,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation2",
@@ -721,9 +627,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation3",
@@ -732,9 +636,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation4",
@@ -743,9 +645,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation5",
@@ -754,9 +654,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation6",
@@ -765,9 +663,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation7",
@@ -776,9 +672,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation8",
@@ -787,9 +681,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation9",
@@ -798,9 +690,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation10",
@@ -809,9 +699,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation11",
@@ -820,9 +708,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation12",
@@ -831,9 +717,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "safetyViolation13",
@@ -842,9 +726,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       }
     ]
   },
@@ -858,9 +740,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "dangerousGoods2",
@@ -869,9 +749,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "dangerousGoods3",
@@ -880,9 +758,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "dangerousGoods4",
@@ -891,9 +767,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "dangerousGoods5",
@@ -902,9 +776,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       },
       {
         "id": "dangerousGoods6",
@@ -913,9 +785,7 @@
         "violationPoint": "п.  ПДР України",
         "article": "ч.1 ст.122 КУпАП",
         "fine": 340,
-        "suspendableLicense": false,
-        "materials": ["постанова"],
-        "supposeRecurrence": false
+        "materials": ["постанова"]
       }
     ]
   }
